@@ -64,12 +64,6 @@
 @import url(./../vendor/perfect-scrollbar/css/perfect-scrollbar.css);
 @import url(./../vendor/metismenu/css/metisMenu.min.css);
 
-.nav-header {
-  background-color: #3e4954 !important;
-}
-.header, .deznav {
-  background-color: #3e4954 !important;
-}
 .apexcharts-text tspan {
   font-family: "Roboto", sans-serif!important;
 }
