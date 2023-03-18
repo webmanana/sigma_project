@@ -29896,7 +29896,7 @@ html[dir="rtl"] #main-wrapper[data-layout="horizontal"] #main-wrapper[data-sideb
 }
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul .sidebar-item .first-level .sidebar-item .sidebar-link.active,
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul .sidebar-item .first-level .sidebar-item .sidebar-link.active {
-    color: #263238;
+    color: #fff;
 }
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul .sidebar-item .first-level .sidebar-item .sidebar-link.active i,
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul .sidebar-item .first-level .sidebar-item .sidebar-link.active i {
