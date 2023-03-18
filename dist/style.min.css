@@ -13964,7 +13964,7 @@
 #main-wrapper[data-layout="horizontal"] .topbar[data-navbarbg="skin6"],
 #main-wrapper[data-layout="vertical"] .topbar .navbar-collapse[data-navbarbg="skin6"],
 #main-wrapper[data-layout="vertical"] .topbar[data-navbarbg="skin6"] {
-    background: #fff;
+    background: #363d4a;
 } /*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
@@ -29757,7 +29757,7 @@ html[dir="rtl"] #main-wrapper[data-layout="horizontal"] #main-wrapper[data-sideb
     background: #7460ee;
 }
 #main-wrapper[data-layout="vertical"] .topbar .top-navbar .navbar-header[data-logobg="skin6"] {
-    background: #fff;
+    background: #363d4a;
 }
 #main-wrapper[data-layout="vertical"] .topbar .top-navbar .navbar-header[data-logobg="skin6"] .navbar-brand .dark-logo {
     display: inline;
@@ -29831,11 +29831,11 @@ html[dir="rtl"] #main-wrapper[data-layout="horizontal"] #main-wrapper[data-sideb
 }
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"],
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] {
-    background: #fff;
+    background: #363d4a;
 }
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-footer,
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-footer {
-    background: #fff;
+    background: #363d4a;
 }
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-footer,
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-footer {
@@ -29845,15 +29845,15 @@ html[dir="rtl"] #main-wrapper[data-layout="horizontal"] #main-wrapper[data-sideb
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"] .user-profile .profile-text a,
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-footer a,
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] .user-profile .profile-text a {
-    color: #54667a;
+    color: #fff;
 }
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul,
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul {
-    background: #fff;
+    background: #363d4a;
 }
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul .sidebar-item .sidebar-link,
 #main-wrapper[data-layout="vertical"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul .sidebar-item .sidebar-link {
-    color: #54667a;
+    color: #fff;
     opacity: 1;
 }
 #main-wrapper[data-layout="horizontal"] .left-sidebar[data-sidebarbg="skin6"] .sidebar-nav ul .sidebar-item .sidebar-link .feather,
