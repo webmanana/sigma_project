@@ -67,8 +67,19 @@
 .apexcharts-text tspan {
   font-family: "Roboto", sans-serif!important;
 }
+#Foreground :hover {
+  fill: #1C76BE;
+  fill-opacity: 1;
+}
 .logo {
   width: 100%;
+}
+#Background {
+  fill: #fff;
+  fill-opacity: 0.301961;
+}
+#Foreground a {
+  fill: #C3DDF1;
 }
 .logo_text {
   color: #000;
