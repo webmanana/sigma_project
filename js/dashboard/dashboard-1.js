@@ -218,7 +218,7 @@
 			},
 			xaxis: {
 				
-			  categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'July'],
+				categories: ['Янв', 'Фев', 'Март', 'Апр', 'Май', 'Июнь', 'Июль'],
 			  labels: {
 				style: {
 					colors: '#3e4954',
