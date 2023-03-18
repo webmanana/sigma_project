@@ -151,12 +151,12 @@
 		var options = {
 			  series: [
 				{
-					name: 'Net Profit',
+					name: 'Инвестиций',
 					data: [31, 40, 28, 51, 42, 109, 100],
 					//radius: 12,	
 				}, 
 				{
-				  name: 'Revenue',
+				  name: 'Закупки',
 				  data: [11, 32, 45, 32, 34, 52, 41]
 				}, 
 				
