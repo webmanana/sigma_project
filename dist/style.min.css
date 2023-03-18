@@ -30,6 +30,9 @@
  #Foreground a {
     fill: #C3DDF1;
 }
+#total-revenue .apexcharts-canvas:first-child, #apexchartspaspo3dq, #apexchartsvw6sct49, #apexchartsa14y3fukm, #apexchartsgmjpzhq4, #apexchartss4w2tcpa, #apexchartsa14y3fuk,#apexchartspai9r1j1, #apexchartsmebkq7nh {
+    display: none;
+}
 .fa,
 .fab,
 .fal,
